@@ -1,7 +1,9 @@
 # DB200-MongoDB-Exercises
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-MongoDB exercise project to grasp the use and scenarios for all query types.
 
-Please feel free to review the code as there is nothing visually to see in a browser for this project.
+MongoDB querying exercise project to understand the use for all types in a given scenario
 
-Thank you, Miles Mickelson
+#### Please feel free to review the code in this repository as there is no front end feature to visualize.
+
+* **Thank you**, ***-Miles Mickelson***
